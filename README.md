@@ -8,6 +8,7 @@ Graduanda em Engenharia de Ambiental pela Universidade de São Paulo (USP).
 
 # 🤓 Habilidades técnicas
 
+- Microsoft Excel/Google Sheets;
 - SQL;
 - Git/Github;
 - DataViz: Looker Studio e Apache Superset.
