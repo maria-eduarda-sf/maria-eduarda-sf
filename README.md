@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=maria-eduarda-sf&color=blue)
 
-# Olá, seja muito bem vindo ao meu perfil no git! Eu sou a Maria Eduarda 👋!
+# Olá, seja muito bem vindo/vinda ao meu perfil no git! Eu sou a Maria Eduarda 👋!
 
 Graduanda em Engenharia de Ambiental pela Universidade de São Paulo (USP).
 
